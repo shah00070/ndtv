@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<item
+        android:id="@+id/menu_comment"
+        android:icon="@drawable/comment"
+        android:orderInCategory="3"
+        android:title="Comment"
+        app:showAsAction="always" />-->
+
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@drawable/share"
+        android:orderInCategory="4"
+        android:title="Share"
+        app:showAsAction="always" />
+</menu>

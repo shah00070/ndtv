@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/values-mdpi-v4/values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/values-mdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 63,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 53,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

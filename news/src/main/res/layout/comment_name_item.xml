@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/user_image"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/round_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="6dp"
+                android:textColor="@color/Black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/name"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/tab_header_background"
+                android:textSize="13sp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:gravity="right|center_vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/reply_dots" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

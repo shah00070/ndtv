@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/photo_item_backgorund_color"
+    android:orientation="vertical"
+    android:weightSum="510">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="385"
+        android:layout_height="0dp">
+
+        <com.ndtv.core.util.ResizableImageView
+            android:id="@+id/full_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/photo_item_height"
+            android:adjustViewBounds="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="125"
+        android:layout_height="0dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/photo_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/photo_left_padding"
+            android:paddingTop="@dimen/photo_top_padding"
+            android:paddingRight="@dimen/photo_left_padding"
+            android:paddingBottom="@dimen/photo_title_bottom_padding"
+            android:maxLines="2"
+            android:textColor="@android:color/white"
+            android:ellipsize="end"
+            android:text="@string/photo_title_sample_text"
+            android:textSize="@dimen/photo_discription_size" />
+
+        <TextView
+            android:id="@+id/no_of_photos_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/num_of_images_text_color"
+            android:paddingLeft="@dimen/photo_left_padding"
+            android:paddingBottom="@dimen/photo_bottom_padding"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

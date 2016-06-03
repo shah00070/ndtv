@@ -1,0 +1,61 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="keyline_1">16dp</dimen>
+    <dimen name="photo_item_height">260dp</dimen>
+
+    <dimen name="text_size_xsmall">11sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <dimen name="text_size_xxlarge">22sp</dimen>
+    <dimen name="text_size_diff_large_small">6sp</dimen>
+
+
+    <dimen name="photo_top_padding">10dp</dimen>
+    <dimen name="photo_bottom_padding">10dp</dimen>
+    <dimen name="photo_left_padding">10dp</dimen>
+    <dimen name="photo_title_bottom_padding">5dp</dimen>
+    <dimen name="photo_discription_size">18sp</dimen>
+
+    <dimen name="attachment_pop_up_width">200dp</dimen>
+    <dimen name="popup_margin_top">140dp</dimen>
+
+    <!-- special_categories -->
+    <dimen name="sub_tab_height">40dp</dimen>
+    <dimen name="sub_tab_text_size">14sp</dimen>
+
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+
+    <integer name="default_circle_indicator_orientation">0</integer>
+
+    <bool name="default_circle_indicator_snap">false</bool>
+    <bool name="default_circle_indicator_centered">true</bool>
+
+    <!-- Radio Notification Text Size -->
+    <!-- <dimen name="notification_text_size">13sp</dimen>-->
+
+    <!-- feedback -->
+    <dimen name="feedback_edittxt_height">120dp</dimen>
+    <dimen name="feedback_text_size">14sp</dimen>
+    <dimen name="feedback_text_padding">4dp</dimen>
+    <dimen name="feedback_text_margin">20dp</dimen>
+
+    <!-- Accounts Page -->
+    <dimen name="account_btn">230dp</dimen>
+
+    <!--Gcm Notification -->
+    <dimen name="padding_left">10dp</dimen>
+    <dimen name="padding_right">10dp</dimen>
+    <dimen name="padding_top">10dp</dimen>
+    <dimen name="padding_bottom">10dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="notification_image_height">200dp</dimen>
+
+    <dimen name="settings_categories_padding">15dp</dimen>
+</resources>

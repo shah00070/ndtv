@@ -1,0 +1,2255 @@
+[
+    {
+        "outputFile": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/values-ru/values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endLine": 11,
+                        "endColumn": 14,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endLine": 15,
+                        "endColumn": 14,
+                        "endOffset": 625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 114,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 114,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 107,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 107,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 122,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 122,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 101,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 101,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 111,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 111,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 85,
+                    "endOffset": 1150
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 85,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1155,
+                    "endColumn": 104,
+                    "endOffset": 1255
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endColumn": 104,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1260,
+                    "endColumn": 119,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1027,
+                        "endColumn": 119,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endColumn": 105,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 105,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endColumn": 107,
+                    "endOffset": 1589
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endColumn": 107,
+                        "endOffset": 1356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1594,
+                    "endColumn": 97,
+                    "endOffset": 1687
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1361,
+                        "endColumn": 97,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1692,
+                    "endColumn": 108,
+                    "endOffset": 1796
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 108,
+                        "endOffset": 1563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1801,
+                    "endColumn": 105,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1568,
+                        "endColumn": 105,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1907,
+                    "endColumn": 107,
+                    "endOffset": 2010
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1674,
+                        "endColumn": 107,
+                        "endOffset": 1777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2015,
+                    "endColumn": 135,
+                    "endOffset": 2146
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1782,
+                        "endColumn": 135,
+                        "endOffset": 1913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2151,
+                    "endColumn": 99,
+                    "endOffset": 2246
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1918,
+                        "endColumn": 99,
+                        "endOffset": 2013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2251,
+                    "endColumn": 207,
+                    "endOffset": 2454
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 211,
+                        "endOffset": 690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2459,
+                    "endColumn": 178,
+                    "endOffset": 2633
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2633,
+                        "endColumn": 182,
+                        "endOffset": 2811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2638,
+                    "endColumn": 112,
+                    "endOffset": 2746
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2322,
+                        "endColumn": 112,
+                        "endOffset": 2430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2751,
+                    "endColumn": 246,
+                    "endOffset": 2993
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4703,
+                        "endColumn": 250,
+                        "endOffset": 4949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2998,
+                    "endColumn": 108,
+                    "endOffset": 3102
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2085,
+                        "endColumn": 108,
+                        "endOffset": 2189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3107,
+                    "endColumn": 193,
+                    "endOffset": 3296
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1887,
+                        "endColumn": 197,
+                        "endOffset": 2080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3301,
+                    "endColumn": 126,
+                    "endOffset": 3423
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1760,
+                        "endColumn": 126,
+                        "endOffset": 1882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3428,
+                    "endColumn": 173,
+                    "endOffset": 3597
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 177,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3602,
+                    "endColumn": 111,
+                    "endOffset": 3709
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1648,
+                        "endColumn": 111,
+                        "endOffset": 1755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3714,
+                    "endColumn": 234,
+                    "endOffset": 3944
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 238,
+                        "endOffset": 1404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3949,
+                    "endColumn": 234,
+                    "endOffset": 4179
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1409,
+                        "endColumn": 238,
+                        "endOffset": 1643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4184,
+                    "endColumn": 128,
+                    "endOffset": 4308
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1041,
+                        "endColumn": 128,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4313,
+                    "endColumn": 157,
+                    "endOffset": 4466
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3593,
+                        "endColumn": 157,
+                        "endOffset": 3746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4471,
+                    "endColumn": 132,
+                    "endOffset": 4599
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3460,
+                        "endColumn": 132,
+                        "endOffset": 3588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4604,
+                    "endColumn": 167,
+                    "endOffset": 4767
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 695,
+                        "endColumn": 167,
+                        "endOffset": 858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4772,
+                    "endColumn": 159,
+                    "endOffset": 4927
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3300,
+                        "endColumn": 159,
+                        "endOffset": 3455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4932,
+                    "endColumn": 117,
+                    "endOffset": 5045
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3182,
+                        "endColumn": 117,
+                        "endOffset": 3295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5050,
+                    "endColumn": 178,
+                    "endOffset": 5224
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 178,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5229,
+                    "endColumn": 133,
+                    "endOffset": 5358
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 133,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5363,
+                    "endColumn": 178,
+                    "endOffset": 5537
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 5074,
+                        "endColumn": 178,
+                        "endOffset": 5248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5542,
+                    "endColumn": 119,
+                    "endOffset": 5657
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 4954,
+                        "endColumn": 119,
+                        "endOffset": 5069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5662,
+                    "endColumn": 143,
+                    "endOffset": 5801
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3751,
+                        "endColumn": 143,
+                        "endOffset": 3890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5806,
+                    "endColumn": 270,
+                    "endOffset": 6072
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4019,
+                        "endColumn": 274,
+                        "endOffset": 4289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6077,
+                    "endColumn": 123,
+                    "endOffset": 6196
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3895,
+                        "endColumn": 123,
+                        "endOffset": 4014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6201,
+                    "endColumn": 108,
+                    "endOffset": 6305
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4294,
+                        "endColumn": 108,
+                        "endOffset": 4398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6310,
+                    "endColumn": 193,
+                    "endOffset": 6499
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2435,
+                        "endColumn": 197,
+                        "endOffset": 2628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6504,
+                    "endColumn": 127,
+                    "endOffset": 6627
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2194,
+                        "endColumn": 127,
+                        "endOffset": 2317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6632,
+                    "endColumn": 228,
+                    "endOffset": 6856
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2949,
+                        "endColumn": 232,
+                        "endOffset": 3177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6861,
+                    "endColumn": 132,
+                    "endOffset": 6989
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2816,
+                        "endColumn": 132,
+                        "endOffset": 2944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6994,
+                    "endColumn": 97,
+                    "endOffset": 7087
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4605,
+                        "endColumn": 97,
+                        "endOffset": 4698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7092,
+                    "endColumn": 89,
+                    "endOffset": 7177
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4403,
+                        "endColumn": 89,
+                        "endOffset": 4488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7182,
+                    "endColumn": 111,
+                    "endOffset": 7289
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4493,
+                        "endColumn": 111,
+                        "endOffset": 4600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7294,
+                    "endColumn": 47,
+                    "endOffset": 7337
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 47,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7342,
+                    "endColumn": 66,
+                    "endOffset": 7404
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 66,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7409,
+                    "endColumn": 69,
+                    "endOffset": 7474
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 69,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7479,
+                    "endColumn": 82,
+                    "endOffset": 7557
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 82,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7562,
+                    "endColumn": 94,
+                    "endOffset": 7652
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 94,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7657,
+                    "endColumn": 125,
+                    "endOffset": 7778
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 125,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7783,
+                    "endColumn": 117,
+                    "endOffset": 7896
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endColumn": 117,
+                        "endOffset": 827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7901,
+                    "endColumn": 84,
+                    "endOffset": 7981
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 832,
+                        "endColumn": 84,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7986,
+                    "endColumn": 87,
+                    "endOffset": 8069
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 87,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 8074,
+                    "endColumn": 84,
+                    "endOffset": 8154
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 84,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8159,
+                    "endColumn": 99,
+                    "endOffset": 8254
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 99,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8259,
+                    "endColumn": 76,
+                    "endOffset": 8331
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 76,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8336,
+                    "endColumn": 79,
+                    "endOffset": 8411
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 79,
+                        "endOffset": 1342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8416,
+                    "endColumn": 73,
+                    "endOffset": 8485
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1347,
+                        "endColumn": 73,
+                        "endOffset": 1416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8490,
+                    "endColumn": 80,
+                    "endOffset": 8566
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1421,
+                        "endColumn": 80,
+                        "endOffset": 1497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8571,
+                    "endColumn": 48,
+                    "endOffset": 8615
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 48,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8620,
+                    "endColumn": 64,
+                    "endOffset": 8680
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1551,
+                        "endColumn": 64,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8685,
+                    "endColumn": 90,
+                    "endOffset": 8771
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1616,
+                        "endColumn": 90,
+                        "endOffset": 1702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8776,
+                    "endColumn": 83,
+                    "endOffset": 8855
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1707,
+                        "endColumn": 83,
+                        "endOffset": 1786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8860,
+                    "endColumn": 84,
+                    "endOffset": 8940
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1791,
+                        "endColumn": 84,
+                        "endOffset": 1871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8945,
+                    "endColumn": 51,
+                    "endOffset": 8992
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1876,
+                        "endColumn": 51,
+                        "endOffset": 1923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8997,
+                    "endColumn": 41,
+                    "endOffset": 9034
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1928,
+                        "endColumn": 41,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9039,
+                    "endColumn": 66,
+                    "endOffset": 9101
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1970,
+                        "endColumn": 66,
+                        "endOffset": 2032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9106,
+                    "endColumn": 79,
+                    "endOffset": 9181
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2037,
+                        "endColumn": 79,
+                        "endOffset": 2112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9186,
+                    "endColumn": 94,
+                    "endOffset": 9276
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2117,
+                        "endColumn": 94,
+                        "endOffset": 2207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 9281,
+                    "endColumn": 58,
+                    "endOffset": 9335
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2212,
+                        "endColumn": 58,
+                        "endOffset": 2266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 9340,
+                    "endColumn": 94,
+                    "endOffset": 9430
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2271,
+                        "endColumn": 94,
+                        "endOffset": 2361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 9435,
+                    "endColumn": 47,
+                    "endOffset": 9478
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2366,
+                        "endColumn": 47,
+                        "endOffset": 2409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 9483,
+                    "endColumn": 120,
+                    "endOffset": 9599
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2414,
+                        "endColumn": 120,
+                        "endOffset": 2530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 9604,
+                    "endColumn": 82,
+                    "endOffset": 9682
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2535,
+                        "endColumn": 82,
+                        "endOffset": 2613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9687,
+                    "endColumn": 61,
+                    "endOffset": 9744
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2618,
+                        "endColumn": 61,
+                        "endOffset": 2675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 9749,
+                    "endColumn": 62,
+                    "endOffset": 9807
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2680,
+                        "endColumn": 62,
+                        "endOffset": 2738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9812,
+                    "endColumn": 199,
+                    "endOffset": 10007
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2743,
+                        "endColumn": 199,
+                        "endOffset": 2938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 10012,
+                    "endColumn": 371,
+                    "endOffset": 10379
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2943,
+                        "endColumn": 371,
+                        "endOffset": 3310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 10384,
+                    "endColumn": 374,
+                    "endOffset": 10754
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3315,
+                        "endColumn": 374,
+                        "endOffset": 3685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 10759,
+                    "endColumn": 61,
+                    "endOffset": 10816
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3690,
+                        "endColumn": 61,
+                        "endOffset": 3747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 10821,
+                    "endColumn": 92,
+                    "endOffset": 10909
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3752,
+                        "endColumn": 92,
+                        "endOffset": 3840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 10914,
+                    "endColumn": 99,
+                    "endOffset": 11009
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3845,
+                        "endColumn": 99,
+                        "endOffset": 3940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 11014,
+                    "endColumn": 91,
+                    "endOffset": 11101
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3945,
+                        "endColumn": 91,
+                        "endOffset": 4032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 11106,
+                    "endColumn": 340,
+                    "endOffset": 11442
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4037,
+                        "endColumn": 340,
+                        "endOffset": 4373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 11447,
+                    "endColumn": 67,
+                    "endOffset": 11510
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4378,
+                        "endColumn": 67,
+                        "endOffset": 4441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 11515,
+                    "endColumn": 105,
+                    "endOffset": 11616
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4446,
+                        "endColumn": 105,
+                        "endOffset": 4547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 11621,
+                    "endColumn": 49,
+                    "endOffset": 11666
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4552,
+                        "endColumn": 49,
+                        "endOffset": 4597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 11671,
+                    "endColumn": 51,
+                    "endOffset": 11718
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4602,
+                        "endColumn": 51,
+                        "endOffset": 4649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 11723,
+                    "endColumn": 114,
+                    "endOffset": 11833
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 114,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 11838,
+                    "endColumn": 107,
+                    "endOffset": 11941
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 107,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 11946,
+                    "endColumn": 111,
+                    "endOffset": 12053
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 111,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 12058,
+                    "endColumn": 103,
+                    "endOffset": 12157
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 613,
+                        "endColumn": 103,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 12162,
+                    "endColumn": 104,
+                    "endOffset": 12262
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 104,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 12267,
+                    "endColumn": 103,
+                    "endOffset": 12366
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 103,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 12371,
+                    "endColumn": 129,
+                    "endOffset": 12496
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 129,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 12501,
+                    "endColumn": 110,
+                    "endOffset": 12607
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 110,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 12612,
+                    "endColumn": 86,
+                    "endOffset": 12694
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 86,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 12699,
+                    "endColumn": 96,
+                    "endOffset": 12791
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1254,
+                        "endColumn": 96,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 12796,
+                    "endColumn": 55,
+                    "endOffset": 12847
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 55,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 12852,
+                    "endColumn": 60,
+                    "endOffset": 12908
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 60,
+                        "endOffset": 857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 12913,
+                    "endColumn": 78,
+                    "endOffset": 12987
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 78,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 12992,
+                    "endColumn": 57,
+                    "endOffset": 13045
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 57,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 13050,
+                    "endColumn": 65,
+                    "endOffset": 13111
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1039,
+                        "endColumn": 65,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 13116,
+                    "endColumn": 64,
+                    "endOffset": 13176
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 64,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 13181,
+                    "endColumn": 81,
+                    "endOffset": 13258
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1341,
+                        "endColumn": 81,
+                        "endOffset": 1418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 13263,
+                    "endColumn": 126,
+                    "endOffset": 13385
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1423,
+                        "endColumn": 126,
+                        "endOffset": 1545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 13390,
+                    "endColumn": 185,
+                    "endOffset": 13571
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 185,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 13576,
+                    "endColumn": 92,
+                    "endOffset": 13664
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 92,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 13669,
+                    "endColumn": 74,
+                    "endOffset": 13739
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1550,
+                        "endColumn": 74,
+                        "endOffset": 1620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 13744,
+                    "endColumn": 61,
+                    "endOffset": 13801
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1625,
+                        "endColumn": 61,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 13806,
+                    "endColumn": 75,
+                    "endOffset": 13877
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/values-ru/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1687,
+                        "endColumn": 75,
+                        "endOffset": 1758
+                    }
+                }
+            }
+        ]
+    }
+]

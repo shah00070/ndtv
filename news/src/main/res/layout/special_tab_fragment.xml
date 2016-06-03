@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <HorizontalScrollView
+        android:id="@+id/tab_scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/sub_tab_height"
+        android:fadingEdge="horizontal"
+        android:fadingEdgeLength="20dp"
+        android:scrollbars="none">
+
+        <RadioGroup
+            android:id="@+id/tabs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" />
+    </HorizontalScrollView>
+
+    <View
+        android:id="@+id/seperator"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/tab_scroll"
+        android:layout_marginTop="-2dp"
+        android:background="@color/sub_tab_color" />
+
+    <TextView
+        android:id="@+id/disclaimer_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#764564"
+        android:padding="8dp"
+        android:visibility="gone" />
+
+    <FrameLayout
+        android:id="@+id/sub_body"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffffff"
+        android:orientation="vertical"></FrameLayout>
+
+
+    <TextView
+        android:id="@+id/disclaimer_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#764564"
+        android:padding="8dp"
+        android:visibility="gone" />
+
+</LinearLayout>

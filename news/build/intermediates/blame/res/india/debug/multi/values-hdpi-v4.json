@@ -1,0 +1,161 @@
+[
+    {
+        "outputFile": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/values-hdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 63,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 53,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 53,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 60,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-hdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 60,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 51,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-hdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 51,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 57,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-hdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 57,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 58,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-hdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 58,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 54,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-hdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 461,
+                        "endColumn": 54,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endLine": 13,
+                    "endColumn": 13,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 552
+                    }
+                }
+            }
+        ]
+    }
+]

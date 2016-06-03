@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="custom_push_section_list">
+        <item>ब्रेकिंग न्यूज</item>
+        <item>खेल</item>
+        <item>न्यूज</item>
+        <item>बिज़नेस</item>
+        <item>बॉलीवुड</item>
+    </string-array>
+
+    <!-- Search Related-->
+    <string-array name="search_headers">
+        <item>ख़बरे</item>
+        <item>फोटो</item>
+        <item>वीडियो</item>
+        <item>प्राइम शो</item>
+
+    </string-array>
+
+</resources>

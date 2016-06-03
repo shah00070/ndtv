@@ -1,0 +1,55 @@
+<resources>
+
+    <color name="nativead_item">#EEECEE</color>
+    <color name="light_orange">#E7A301</color>
+    <color name="dark_grey">#333333</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="theme_primary">#DA4336</color>
+    <color name="theme_primary_dark">#B93221</color>
+    <color name="theme_accent">#FFBDB0</color>
+    <color name="theme_drawer_background">#F2F2F2</color>
+    <color name="theme_window_background">#DEDEDE</color>
+    <color name="theme_text_primary_color">#FFFFFF</color>
+    <color name="theme_navigation_color">#000000</color>
+    <color name="selected_gray">#ffdbdbdb</color>
+
+
+    <color name="body_text_1">#de000000</color>
+    <color name="body_text_2">#8a000000</color>
+    <color name="body_text_3">#60000000</color>
+    <color name="body_text_disabled">#44000000</color>
+
+    <color name="navdrawer_background">#ffffffff</color>
+    <color name="navdrawer_text_color">@color/body_text_1</color>
+    <color name="navdrawer_text_color_selected">@color/theme_primary</color>
+    <color name="navdrawer_icon_tint">#888</color>
+    <color name="navdrawer_icon_tint_selected">@color/theme_primary</color>
+
+    <color name="list_item_selector">#999999</color>
+    <color name="num_of_images_text_color">#758E97</color>
+    <color name="photo_item_backgorund_color">#111111</color>
+    <color name="live_radio_now_playing_text_col">#999999</color>
+    <color name="black">#000000</color>
+
+
+    <color name="news_digest_section_name_news">#00ACC1</color>
+    <color name="news_digest_section_name_sports">#408F00</color>
+    <color name="news_digest_section_name_gadgets">#2B85FF</color>
+    <color name="news_digest_section_name_entertainment">#4D3A93</color>
+    <color name="news_digest_section_name_business">#135FAC</color>
+    <color name="news_digest_section_name_auto">#D02539</color>
+    <color name="news_digest_section_name_default">#999999</color>
+
+    <color name="settings_bg">#36474F</color>
+    <color name="settings_header_bg">#384248</color>
+    <color name="feebback_submit_btn">#3D80F1</color>
+
+
+    <color name="sub_tab_color">#DA4336</color>
+    <color name="unselected_tab_color">#FFBDB0</color>
+    <color name="share_title_color">#DA4336</color>
+
+
+</resources>

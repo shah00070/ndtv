@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/comment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/tab_header_background"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/img_seperater" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="1080"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/replies"
+                android:layout_width="0dp"
+                android:layout_weight="445"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:gravity="left|center_vertical"
+                android:text="@string/replies"
+                android:paddingLeft="4dp"
+                android:textColor="#A1A6AE"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="315"
+                android:gravity="right"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/dislike_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/comment_dislike_btn_selector"
+                    android:focusable="false"
+                    android:gravity="center_vertical" />
+
+
+                <TextView
+                    android:id="@+id/dislike_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="#A1A6AE"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="318"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/like_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/comment_like_btn_selector"
+                    android:focusable="false"
+                    android:gravity="center" />
+
+
+                <TextView
+                    android:id="@+id/like_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="#A1A6AE"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/horizontal_seperator"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:focusable="false"
+        android:layout_height="wrap_content"
+        android:background="@drawable/img_seperater" />
+
+</LinearLayout>

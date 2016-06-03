@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/jniLibs"/></dataSet><dataSet config="india"><source path="/home/chandan/AndroidStudioProjects/NdtvApp/news/src/india/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/chandan/AndroidStudioProjects/NdtvApp/news/src/debug/jniLibs"/></dataSet><dataSet config="indiaDebug"><source path="/home/chandan/AndroidStudioProjects/NdtvApp/news/src/indiaDebug/jniLibs"/></dataSet></merger>

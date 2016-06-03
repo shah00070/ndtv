@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/swipe_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.ndtv.core.newswidget.ui.custom.CustomListView
+            android:id="@+id/news_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@color/news_listing_divider"
+            android:footerDividersEnabled="false"
+            android:dividerHeight="1dp"/>
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+    <!-- <LinearLayout
+         android:id="@+id/progressContainer"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:gravity="center"
+         android:orientation="vertical"
+         android:visibility="visible">-->
+    <ProgressBar
+        android:id="@id/progress_bar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_height="wrap_content"
+        />
+
+    <!--  <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingTop="4dip"
+          android:singleLine="true"
+          android:text=""
+          android:textAppearance="?android:attr/textAppearanceSmall" />
+
+  </LinearLayout>-->
+
+
+</RelativeLayout>

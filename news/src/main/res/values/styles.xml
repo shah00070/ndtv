@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="colorAccent">@color/theme_accent</item>
+        <item name="android:textColorPrimary">@color/theme_text_primary_color</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="android:windowBackground">@color/theme_window_background</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="ToolBarStyle" parent="">
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+
+    <style name="PopupWindowAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/pop_up_appear</item>
+        <item name="android:windowExitAnimation">@anim/pop_up_disappear</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/sec_screen_dialogue_pop_up_open</item>
+        <item name="android:windowExitAnimation">@anim/sec_screen_dialogue_pop_up_close</item>
+    </style>
+
+    <!--<style name="NotificationText" parent="android:TextAppearance.StatusBar.EventContent.Title" />-->
+    <style name="NotificationTitle" parent="android:TextAppearance.StatusBar.EventContent.Title" />
+
+    <style name="NotificationText">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="NotificationView">
+        <item name="android:background">@color/white</item>
+    </style>
+
+
+    <style name="InverseTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <item name="android:background">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorBackground">@color/white</item>
+
+    </style>
+
+    <style name="NotificationTextInv">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="NotificationTitleInv">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="NotificationViewInv">
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="LiveTvTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimaryDark">@android:color/black</item>
+        <item name="colorPrimary">@android:color/black</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+
+    <style name="HomeScreenTheme" parent="AppTheme">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+</resources>

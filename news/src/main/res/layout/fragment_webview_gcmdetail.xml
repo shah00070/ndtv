@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="match_parent"
+>
+
+<RelativeLayout
+    android:id="@+id/non_video_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:id="@+id/empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:visibility="invisible"></TextView>
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+</RelativeLayout>
+
+<FrameLayout
+    android:id="@+id/fullscreen_layout"
+    android:layout_width="101dp"
+    android:layout_height="88dp"
+    android:background="@android:color/white"
+    android:visibility="gone" />
+
+</FrameLayout>

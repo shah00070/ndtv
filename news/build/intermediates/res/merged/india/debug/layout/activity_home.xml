@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/toolbar_actionbar"
+        layout="@layout/toolbar_default"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/drawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/adContainer"
+        android:layout_below="@+id/toolbar_actionbar">
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></FrameLayout>
+
+        <FrameLayout
+            android:layout_width="@dimen/navigation_drawer_width"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="#f00"
+            android:id="@+id/navigation_container"></FrameLayout>
+
+    </android.support.v4.widget.DrawerLayout>
+
+    <LinearLayout
+        android:id="@+id/adContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:background="@android:color/white"
+        android:visibility="gone"></LinearLayout>
+
+</RelativeLayout>

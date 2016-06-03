@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 49,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 49,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 45,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 45,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 48,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 48,
+                        "endOffset": 522
+                    }
+                }
+            }
+        ]
+    }
+]

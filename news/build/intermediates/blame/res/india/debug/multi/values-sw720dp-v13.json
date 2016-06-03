@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/values-sw720dp-v13/values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 75,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-sw720dp-v13/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 75,
+                        "endOffset": 305
+                    }
+                }
+            }
+        ]
+    }
+]

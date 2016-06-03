@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ndtv.india"
+    android:installLocation="auto"
+    android:versionCode="145"
+    android:versionName="2.4.1" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- GCM Permissions -->
+    <!-- Application can keep the processor from sleeping when a message is received. Optional—use only if the app wants to keep the device from sleeping. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- GCM requires a Google account (necessary only if if the device is running a version lower than Android 4.0.4). -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <!-- An applicationPackage + ".permission.C2D_MESSAGE" permission to prevent other Android applications from registering and receiving the Android application's messages. The permission name must exactly match this pattern—otherwise the Android application will not receive the messages. -->
+    <uses-permission android:name="com.ndtv.india.permission.C2D_MESSAGE" />
+    <!-- Android application can register and receive messages. -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <compatible-screens>
+        <screen
+            android:screenDensity="mdpi"
+            android:screenSize="small" />
+        <screen
+            android:screenDensity="mdpi"
+            android:screenSize="large" />
+        <screen
+            android:screenDensity="mdpi"
+            android:screenSize="xlarge" />
+        <screen
+            android:screenDensity="mdpi"
+            android:screenSize="normal" />
+    </compatible-screens>
+
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- GCM Permissions -->
+    <application
+        android:name="com.ndtv.core.NdtvApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.LoginActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize|screenLayout"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.ndtv.core.ui.HomeActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize|screenLayout|uiMode"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/HomeScreenTheme"
+            android:windowSoftInputMode="adjustNothing" >
+        </activity>
+        <!-- android:launchMode="singleTask" -->
+
+        <activity
+            android:name="com.ndtv.core.ui.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@style/SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ndtv.core.livetv.ui.LiveTVPlayActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize|screenLayout|uiMode"
+            android:label="@string/app_name"
+            android:theme="@style/LiveTvTheme" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <service
+            android:name="com.ndtv.core.sync.SyncService"
+            android:exported="false" />
+        <!-- android:process=":sync" / TO ADD PROCESS FOR OFFFINE SYNC. -->
+        <service
+            android:name="com.ndtv.core.radio.services.LiveRadioService"
+            android:exported="false" >
+        </service>
+        <service
+            android:name="com.ndtv.core.radio.services.LiveRadioServiceNewApi"
+            android:exported="false" />
+        <service
+            android:name="com.ndtv.core.now.HttpPostService"
+            android:exported="false" />
+        <service
+            android:name="com.ndtv.core.now.GetAuthCodeService"
+            android:exported="false" />
+
+        <receiver android:name="com.ndtv.core.now.ResponseHandler" >
+            <intent-filter>
+                <action android:name="com.google.api.services.samples.now.nowsampleclient.BROADCAST" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.ndtv.core.radio.RadioNotifactionReciever"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.july.ndtv.launch.SERVICE" />
+                <action android:name="com.july.ndtv.action.STOP_SERVICE" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.ndtv.core.provider.NewsProvider"
+            android:authorities="com.ndtv.india"
+            android:exported="false"
+            android:syncable="true" />
+
+        <!-- com.rfm.sdk.HTMLBrowserView: required for RFM Ad SDK -->
+        <activity
+            android:name="com.rfm.sdk.HTMLBrowserView"
+            android:configChanges="orientation" />
+
+        <!-- Google Mobile Ads activity. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <!--
+         WakefulBroadcastReceiver that will receive intents from GCM
+         services and hand them to the custom IntentService.
+
+         The com.google.android.c2dm.permission.SEND permission is necessary
+         so only GCM services can send data messages for the app.
+        -->
+        <activity
+            android:name="com.ndtv.core.video.ui.VideoPlayActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize|screenLayout|uiMode"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.ndtv.core" />
+            </intent-filter>
+        </receiver>
+
+        <!-- <service android:name="com.ndtv.core.gcm.GcmIntentService" /> -->
+
+
+        <!-- [START gcm_listener] -->
+        <service
+            android:name="com.ndtv.core.gcm.MyGcmListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+
+        <!-- GCM Updated Changes -->
+        <service
+            android:name="com.ndtv.core.gcm.MyInstanceIDListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+
+        <!-- Chrome cast -->
+        <activity
+            android:name="com.google.sample.castcompanionlibrary.cast.player.VideoCastControllerActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:parentActivityName="com.ndtv.core.ui.HomeActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.HomeActivity" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name="com.google.sample.castcompanionlibrary.remotecontrol.VideoIntentReceiver" >
+            <intent-filter>
+                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+                <action android:name="com.google.sample.castcompanionlibrary.action.toggleplayback" />
+                <action android:name="com.google.sample.castcompanionlibrary.action.stop" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.sample.castcompanionlibrary.notification.VideoCastNotificationService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.sample.castcompanionlibrary.action.toggleplayback" />
+                <action android:name="com.google.sample.castcompanionlibrary.action.stop" />
+                <action android:name="com.google.sample.castcompanionlibrary.action.notificationvisibility" />
+            </intent-filter>
+        </service>
+
+        <!-- Deep Linking google search -->
+        <activity
+            android:name="com.ndtv.core.deeplinking.ui.GoogleSearchIndexingActivity"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="ndtv.android"
+                    android:scheme="ndtv" />
+            </intent-filter>
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="*.ndtv.com"
+                    android:pathPrefix="/"
+                    android:scheme="http" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name="com.ndtv.core.deeplinking.ui.DeeplinkingActivity"
+            android:configChanges="keyboardHidden|orientation|keyboard|smallestScreenSize|screenSize|locale"
+            android:launchMode="singleInstance" >
+            <intent-filter>
+
+                <!-- *****************Deep Linking Google plus******************************** -->
+                <action android:name="com.google.android.apps.plus.VIEW_DEEP_LINK" />
+
+                <data android:scheme="vnd.google.deeplink" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+            <!-- Deeplinking using twitter Intent filters -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <data android:scheme="android-app" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="ndtv" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="9fa8f42c746f23ef3d471f8dc708db9231c30a66" />
+
+        <service android:name="com.google.android.gms.analytics.CampaignTrackingService" />
+
+        <receiver
+            android:name="com.ndtv.core.util.CustomCampaignReceiver"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.ndtv.core.gcm.GcmTransparentActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="android.support.v7.widget.TestActivity"
+            android:label="RecyclerViewTestActivity" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+        <activity
+            android:name="com.twitter.sdk.android.core.identity.OAuthActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false" />
+        <activity
+            android:name="com.twitter.sdk.android.core.identity.ShareEmailActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:icon="@drawable/tw__transparent"
+            android:label="@string/kit_name" />
+        <activity
+            android:name="com.digits.sdk.android.PhoneNumberActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.ConfirmationCodeActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.LoginCodeActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.PinCodeActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.FailureActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android" />
+        <activity
+            android:name="com.digits.sdk.android.ContactsActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false" />
+        <activity
+            android:name="com.digits.sdk.android.PhoneNumberActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.ConfirmationCodeActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.LoginCodeActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.FailureActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android" />
+        <activity
+            android:name="com.digits.sdk.android.ContactsActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false" />
+        <activity
+            android:name="com.digits.sdk.android.PinCodeActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+
+        <service
+            android:name="com.digits.sdk.android.ContactsUploadService"
+            android:enabled="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

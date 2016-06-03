@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_video_pager.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_video_pager.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/feedback_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/feedback_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/photo_list_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/photo_list_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/activity_video_play.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/activity_video_play.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/refresh_settings_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/refresh_settings_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/picture_style_notification_inv.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/picture_style_notification_inv.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_webview.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_webview.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/notification_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/notification_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/dgts__activity_pin_code.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/layout/dgts__activity_pin_code.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/list_view_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/list_view_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/layout_share_popup.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/layout_share_popup.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/custom_notification_layout_inv.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/custom_notification_layout_inv.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_news_widget.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_news_widget.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/tw__tweet.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/layout/tw__tweet.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/default_list_container.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/default_list_container.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/notification_alert_row_image_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/notification_alert_row_image_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_videos_list.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_videos_list.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_livetv_play.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_livetv_play.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_video_play.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_video_play.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/tracks_row_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/layout/tracks_row_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_friendpickerfragment.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/custom_notification.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/layout/custom_notification.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/breaking_news_push_dialogue.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/breaking_news_push_dialogue.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/notification_list_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/notification_list_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/custom_notification_ics_inv.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/custom_notification_ics_inv.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/cast_activity.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/layout/cast_activity.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/custom_tracks_dialog_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/layout/custom_tracks_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/settings_sign_in.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/settings_sign_in.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/comment_reply_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/comment_reply_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/notification_settings_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/notification_settings_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fullimage_pager.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fullimage_pager.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/notification_alert_row_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/notification_alert_row_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/drawer_row.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/drawer_row.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/view_loading_video.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/view_loading_video.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/toolbar_default.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/toolbar_default.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/full_photo_fragment.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/full_photo_fragment.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/activity_livetv.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/activity_livetv.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_livetv_schedule.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_livetv_schedule.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/dgts__state_button.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/layout/dgts__state_button.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/activity_splash.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_search_news_listing.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_search_news_listing.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/notification_settings_header.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/notification_settings_header.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/media_controller.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/media_controller.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_picker_activity_circle_row.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/live_radio.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/live_radio.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/notification_settings_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/notification_settings_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/radio_button.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/radio_button.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/invert_notifications.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/invert_notifications.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/prime_show_list_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/prime_show_list_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_placepickerfragment.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/share_pop_up_item_new.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/share_pop_up_item_new.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_picker_title_bar.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/tw__activity_oauth.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/layout/tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/custom_notification_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/custom_notification_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_picker_list_row.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/custom_notification_ics_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/custom_notification_ics_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/item_videos_list.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/item_videos_list.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_webview_gcmdetail.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_webview_gcmdetail.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/picture_style_notification.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/picture_style_notification.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/photo_fragment_detail.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/photo_fragment_detail.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/progressbar_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/progressbar_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_search_photo_listing.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_search_photo_listing.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_screen_simple.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/comment_name_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/comment_name_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_picker_image.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_search_bar_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/tw__activity_share_email.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/layout/tw__activity_share_email.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/dgts__activity_confirmation.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/layout/dgts__activity_confirmation.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/dgts__activity_failure.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/layout/dgts__activity_failure.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/placeholder_fragment.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/placeholder_fragment.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/notification_layout_inv.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/notification_layout_inv.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_login_activity_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/photo_detail_native_ad_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/photo_detail_native_ad_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/alert_share_pop_up_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/alert_share_pop_up_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/item_livetv_schedule.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/item_livetv_schedule.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/deeplinking_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/deeplinking_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/search_menu_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/search_menu_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_picker_search_box.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragmemt_widget_item_custom.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragmemt_widget_item_custom.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_picker_list_section_header.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_video_detail.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_video_detail.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_ad.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_ad.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/share_pop_up_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/share_pop_up_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/custom_media_route_controller_controls_dialog.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/layout/custom_media_route_controller_controls_dialog.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/enable_notifications.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/enable_notifications.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_news_listing.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_news_listing.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/dgts__activity_phone_number.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/layout/dgts__activity_phone_number.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/news_list_item_with_ad.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/news_list_item_with_ad.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/photo_item_fragment.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/photo_item_fragment.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/news_detail_fragment.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/news_detail_fragment.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/dgts__activity_contacts.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/layout/dgts__activity_contacts.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/comments_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/comments_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_search_view.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_navigation_drawer.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_search_video_lisitng.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_search_video_lisitng.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/special_tab_fragment.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/special_tab_fragment.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/mini_controller.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/layout/mini_controller.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_picker_checkbox.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_placepickerfragment_list_row.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_wiget_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_wiget_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/prime_shows.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/prime_shows.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/match_tye_fragment_laout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/match_tye_fragment_laout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/mr_media_route_list_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/list_footer.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/list_footer.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_photo_listing.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_photo_listing.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/comment_count_layout.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/comment_count_layout.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_usersettingsfragment.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_detail.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/dgts__country_row.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.4.0/res/layout/dgts__country_row.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/com_facebook_picker_title_bar_stub.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/res/layout/com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/activity_home.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/comment_list_item.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/comment_list_item.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/tw__tweet_compact.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.1.0/res/layout/tw__tweet_compact.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/item_search_news_list.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/item_search_news_list.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/layout/fragment_home.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/layout/fragment_home.xml"
+    }
+]

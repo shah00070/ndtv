@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/dislike_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/dislike_btn"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/like_count"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_toRightOf="@+id/dislike_btn"
+            android:background="@drawable/img_countlk_bg"
+            android:gravity="center"
+            android:paddingLeft="4dp"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/like_count"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/like_btn"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/img_countlk_bg"
+            android:gravity="center"
+            android:paddingLeft="4dp"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/dislike_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/like_btn"
+            android:layout_below="@+id/like_btn"
+            android:background="@drawable/comment_dislike_btn_selector"
+            android:gravity="center"
+            android:textColor="@color/Black"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/like_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_toLeftOf="@+id/like_count"
+            android:background="@drawable/comment_like_btn_selector"
+            android:gravity="center"
+            android:textColor="@color/Black"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/comment"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_toLeftOf="@+id/like_btn"
+            android:layout_toRightOf="@+id/arrow"
+            android:textColor="@color/tab_header_background"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:id="@+id/arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="7dp"
+            android:src="@drawable/icn_reply" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/comment"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_toRightOf="@+id/arrow"
+            android:paddingBottom="5dp"
+            android:textColor="@color/Black"
+            android:textSize="10sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/comment"
+            android:layout_marginRight="5dp"
+            android:layout_toRightOf="@+id/name"
+            android:paddingBottom="5dp"
+            android:textColor="@color/tab_header_background"
+            android:textSize="10sp" />
+    </RelativeLayout>
+
+</LinearLayout>

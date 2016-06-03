@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            }
+        ]
+    }
+]

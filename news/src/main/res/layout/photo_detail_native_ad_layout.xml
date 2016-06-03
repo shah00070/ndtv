@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.ads.formats.NativeContentAdView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/photo_detail_native_ad_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <RelativeLayout
+        android:id="@+id/photo_detail_item_ad"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/ad_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:paddingLeft="15dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:orientation="vertical"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/adTitle"
+                android:layout_width="wrap_content"
+                android:singleLine="true"
+                android:textColor="#ffffff"
+                android:textSize="16sp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/photoNumber"
+                android:layout_width="wrap_content"
+                android:textSize="10sp"
+                android:paddingBottom="5dp"
+                android:textColor="#666666"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/album_header">
+
+            <ImageView
+                android:id="@+id/adThumbImage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+
+        <TextView
+            android:textColor="@android:color/white"
+            android:id="@+id/adDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentBottom="true"
+            android:background="#000000"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:padding="5dp"
+            android:textSize="11sp" />
+
+    </RelativeLayout>
+</com.google.android.gms.ads.formats.NativeContentAdView>

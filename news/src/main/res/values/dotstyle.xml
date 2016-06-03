@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotIndicator">
+        <attr name="DotStyle" format="reference" />
+    </declare-styleable>
+
+
+    <declare-styleable name="DotPageIndicator">
+        <attr name="dot_centered" format="boolean" />
+        <attr name="dot_fillColor" format="color" />
+        <attr name="dot_pageColor" format="color" />
+        <attr name="android:orientation" />
+        <attr name="dot_radius" format="dimension" />
+        <attr name="dot_snap" format="boolean" />
+        <attr name="dot_strokeColor" format="color" />
+        <attr name="dot_strokeWidth" format="dimension" />
+        <attr name="android:background" />
+    </declare-styleable>
+
+    <!-- <declare-styleable name="LineIndicator">&lt;!&ndash; Style of the circle indicator. &ndash;&gt;
+         <attr name="LineStyle" format="reference" />
+     </declare-styleable>
+
+
+     <declare-styleable name="LinesPageIndicator">&lt;!&ndash; Whether or not the indicators should be centered. &ndash;&gt;
+         &lt;!&ndash;  Whether or not the indicators should be centered.
+     &ndash;&gt;
+         <attr name="line_centered" format="boolean"/>
+         - &lt;!&ndash;  Color of the unselected lines that represent the pages.
+   &ndash;&gt;
+         <attr name="line_unselectedColor" format="color"/>
+         - &lt;!&ndash;  Color of the selected line that represents the current page.
+   &ndash;&gt;
+         <attr name="line_selectedColor" format="color"/>
+         - &lt;!&ndash;  Width of each indicator line.
+   &ndash;&gt;
+         <attr name="line_lineWidth" format="dimension" />
+         - &lt;!&ndash;  Width of each indicator line's stroke.
+   &ndash;&gt;
+         <attr name="line_strokeWidth" format="dimension"/>
+         - &lt;!&ndash;  Width of the gap between each indicator line.
+   &ndash;&gt;
+         <attr name="line_gapWidth" format="dimension" />
+         - &lt;!&ndash;  View background
+   &ndash;&gt;
+         <attr name="android:background" />
+
+     </declare-styleable>-->
+</resources>

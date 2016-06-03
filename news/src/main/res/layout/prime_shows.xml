@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/search_shows_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:visibility="gone"
+        android:layout_alignParentTop="true"
+        android:textColor="@android:color/tertiary_text_dark" />
+
+    <ListView
+        android:id="@+id/prime_shows_list"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/search_shows_count"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="0dp" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+    <TextView
+        android:id="@+id/empty_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/search_no_result_msg"
+        android:textColor="@color/Black"
+        android:visibility="gone"></TextView>
+
+</RelativeLayout>

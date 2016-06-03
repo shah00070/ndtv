@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/xml/ga_tracker.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/india/res/xml/ga_tracker.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/xml/caption_preference.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/xml/caption_preference.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/xml/application_preference.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/xml/application_preference.xml"
+    }
+]

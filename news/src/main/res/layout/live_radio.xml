@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/show_image"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/place_holder_livetv"
+                android:scaleType="fitXY" />
+
+            <ProgressBar
+                android:id="@+id/progress_bar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:visibility="visible" />
+
+            <ImageButton
+                android:id="@+id/play_pause_iv"
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:layout_alignBottom="@id/show_image"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/floating_action_back"
+                android:elevation="9dp"
+                android:src="@drawable/radio_ripple_selector"
+                android:stateListAnimator="@animator/fab_anim"
+                android:visibility="gone"
+
+                />
+
+
+            <com.ndtv.core.common.util.views.RobotoBoldTextView
+                android:id="@+id/now_playing_text_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/show_image"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:text="@string/live_radio_now_playing_text"
+                android:textColor="@color/live_radio_now_playing_text_col"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+
+        <com.ndtv.core.common.util.views.RobotoMediumTextView
+            android:id="@+id/now_playing_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:gravity="center_horizontal"
+            android:textColor="@color/black"
+            android:textSize="28sp" />
+
+        <com.ndtv.core.common.util.views.RobotoRegularTextView
+            android:id="@+id/coming_up_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:gravity="center_horizontal"
+            android:padding="5dp"
+            android:textColor="@color/live_radio_now_playing_text_col"
+            android:textSize="18sp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:gravity="center_vertical"
+                android:src="@drawable/sound_decrease_2" />
+
+            <SeekBar
+                android:id="@+id/volume_seek_bar"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:progressDrawable="@drawable/seekbar_custom_drawable"
+                android:splitTrack="false"
+                android:thumb="@drawable/scrubber_control_normal_holo" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:gravity="center_vertical"
+                android:src="@drawable/sound_decrease" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

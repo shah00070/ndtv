@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="30dp"
+    android:clickable="true"
+    android:layout_height="27dp"
+    android:background="@drawable/comment">
+
+
+    <!-- Badge Count -->
+    <TextView
+        android:id="@+id/comment_count_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="..."
+        android:paddingBottom="3dp"
+        android:textSize="12sp"
+        android:textColor="#ffffff"
+        android:visibility="visible" />
+
+    <ProgressBar
+        android:id="@+id/progresBarComment"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+</RelativeLayout>

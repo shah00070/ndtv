@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="config_url">http://drop.ndtv.com/ndtv/apps/config/v2/lollypop-english.json</string>
+    <string name="config_url_debug">http://drop.ndtv.com/ndtv/apps/config/test/ndtvapps/lollypop-english.json</string>
+</resources>

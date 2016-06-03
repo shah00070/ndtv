@@ -1,0 +1,73 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="colorAccent">@color/theme_accent</item>
+        <item name="android:textColorPrimary">@color/theme_text_primary_color</item>
+        <item name="android:navigationBarColor">@color/theme_navigation_color</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+
+        <item name="android:windowBackground">@color/theme_window_background</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:fastScrollThumbDrawable">@drawable/fast_scroll_thumb_drawable</item>
+        <item name="android:fastScrollTrackDrawable">@drawable/fastscroll_track_material_drawable</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="ToolBarStyle" parent="">
+        <item name="android:elevation">@dimen/toolbar_elevation</item>
+        <item name="android:transitionName">actionBar</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+
+    <style name="NotificationText" parent="android:TextAppearance.Material.Notification.Title"></style>
+
+    <style name="NotificationTitle" parent="android:TextAppearance.Material.Notification.Title"></style>
+
+    <style name="NotificationTextInv">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="NotificationTitleInv">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="NotificationViewInv">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="NotificationView">
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="InverseTheme" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:background">@color/black</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:colorBackground">@color/black</item>
+
+    </style>
+
+    <style name="NotiTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <item name="android:background">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorBackground">@color/white</item>
+
+    </style>
+    <!--<item name="textColor">@color/primary_text_default_material_light</item>-->
+    <!--<item name="textSize">@dimen/notification_title_text_size</item>-->
+    <!--   <item name="android:textColor">"@android:style/TextAppearance.Material.Notification.Title"</item>-->
+    <!--<item name="android:textColor">"@android:style/TextAppearance.StatusBar.EventContent"</item>-->
+
+
+</resources>

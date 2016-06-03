@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NDTV India</string>
+    <!-- Settings Related -->
+    <string name="feedback_edittext_default_txt">यहाँ टाइप करें ...</string>
+    <string name="feedback_submit_btn_text">सबमिट करें</string>
+    <string name="customized_push_title">अलर्ट</string>
+    <string name="notifications_at_night">रात के वक्त अलर्ट</string>
+    <string name="vibrate_notification">वाइब्रेशन</string>
+    <string name="notification_sound">साउंड</string>
+    <string name="notification">अलर्ट</string>
+    <string name="notification_time">(रात 10 बजे से सुबह 7 बजे तक)</string>
+    <string name="sections">समाचार श्रेणियां</string>
+    <string name="share_text">शेयर करें</string>
+    <string name="cancel_text">रद्द करें</string>
+    <string name="breaking_news_appended_text">यह ब्रेकिंग न्यूज़ है, और एनडीटीवी इंडिया न्यूज़ ऐप
+        जल्द से जल्द विस्तृत समाचार लेकर आएगा
+    </string>
+    <string name="app_version_text">"ऐप वर्जन : {0}"</string>
+    <string name="shared_via_ndtv">एनडीटीवी इंडिया न्यूज एंड्रॉयड ऐप के जरिये शेयर किया गया
+        http://ndtv.com/apps
+    </string>
+    <string name="sending_mail">मेल भेजा जा रहा है..</string>
+
+    <!-- Sign in -->
+    <string name="login_to_comment">टिप्पणी करने के लिए लॉगिन करें</string>
+    <string name="signing_in">"साइन इन हो रहा है"</string>
+    <string name="login_success_msg">लॉग इन सफल रहा</string>
+    <string name="login_failure_msg">लॉग इन असफल रहा</string>
+    <string name="google_logout_msg">गुगल प्लस से लॉगिंग ऑउट</string>
+    <string name="facebook_logout_msg">फेसबुक से लॉगिंग ऑउट</string>
+    <string name="twitter_logout_msg">ट्विटर से लॉगिंग ऑउट</string>
+
+    <!-- Share -->
+    <string name="share_success">कंटेंट शेयर किया जा चुका है।</string>
+
+
+    <!-- No Network Messgae -->
+    <string name="no_network_msg">कृपया अपने इंटरनेट कनेक्शन की जांच करें, और दोबारा कोशिश करें
+    </string>
+
+
+    <string name="dialog_ok">ठीक है</string>
+
+
+    <!--- R&F -->
+    <string name="rf_prompt">क्या आपको NDTV इंडिया न्यूज ऐप पसंद आई?</string>
+    <string name="rf_prompt_yes">नहीं</string>
+    <string name="rf_prompt_no">हां</string>
+    <string name="r_prompt">ऐप स्टोर में हमें रेट करें</string>
+    <string name="r_prompt_yes">नहीं</string>
+    <string name="r_prompt_no">हां</string>
+    <string name="f_prompt">वजह बताएं!</string>
+    <string name="f_prompt_yes">नहीं</string>
+    <string name="f_prompt_no">हां</string>
+    <string name="f_email_subject">NDTV इंडिया न्यूज ऐप: फीडबैक</string>
+    <string name="f_email_address">apps@ndtv.com</string>
+    <string name="f_email_prompt">ईमेल भेजें</string>
+
+    <!-- Comments -->
+    <string name="your_comment">आपकी टिप्पणी</string>
+    <string name="post_comment_failed">टिप्पणी करने के लिए धन्यवाद. आपकी टिप्पणी जांचने के बाद
+        प्रकाशित की जाएगी.
+    </string>
+    <string name="blank_comment">कृपया सही शब्दों में टिप्पणी करें</string>
+    <!-- टिप्पणी दर्ज नहीं हो पाई है -->
+    <string name="comments_header_text">"टिप्पणियां"</string>
+    <string name="no_comments_msg">सबसे पहले टिप्पणी करें</string>
+
+    <!-- Search Related-->
+    <string name="search_no_result_msg">कोई रिज़ल्ट नहीं</string>
+    <string name="search_hint">खोज</string>
+
+
+    <string name="search_gellery">गैलरी</string>
+    <string name="search_article">आर्टिकल</string>
+    <string name="search_video">वीडियो</string>
+
+    <string name="search_gelleries">गैलरीज</string>
+    <string name="search_articles">आर्टिकल्स</string>
+    <string name="search_videos">वीडियोजं</string>
+    <string name="search_shows">प्राइम शो</string>
+
+
+    <string name="search_header_text">\" {0} \" ({1})</string>
+    <string name="total_image">इमेज</string>
+    <string name="total_images">इमेजेस</string>
+
+    <!-- News Search -->
+    <string name="days_ago">दिन पहले</string>
+    <string name="one_day_ago">1 दिन पहले</string>
+    <string name="hours_ago">घंटे पहले</string>
+    <string name="one_hour_ago">1 घंटे पहले</string>
+    <string name="minutes_ago">मिनट पहले</string>
+    <string name="one_minute_ago">1 मिनट पहले</string>
+
+    <!-- For facebook -->
+    <string name="facebook">Facebook</string>
+    <string name="post_sucess">सफलतापूर्वक पोस्ट कर दिया गया है</string>
+    <string name="post_cancel">पोस्ट को रद्द कर दिया गया है</string>
+    <string name="post_error">कुछ तकनीकी गड़बड़ी हुई है, पोस्ट नहीं हो पाया है</string>
+    <!-- For Twitter -->
+    <string name="twitter">Twitter</string>
+    <string name="tweet_success">ट्वीट भेज दिया गया है</string>
+    <string name="tweet_failed">ट्वीट नहीं भेजा जा सका है</string>
+    <string name="tweet_duplicate">यह ट्वीट पहले भी भेजा जा चुका है</string>
+
+    <!-- live radio -->
+    <string name="live_radio_coming_up_next_text">अगला कार्यक्रम:</string>
+    <string name="live_radio_now_playing_text">आप सुन रहे हैं</string>
+    <string name="invert_notification">नोटिफिकेशन का रंग बदलें</string>
+
+
+    <string name="top">बड़ी</string>
+    <string name="shows">प्राइम शो</string>
+    <string name="subcategory_name">khabar</string>
+
+    <string name="top_news">ख़बरे</string>
+    <string name="photos">फोटो</string>
+    <string name="videos">वीडियो</string>
+
+    <string name="app_refresh">ऐप बैकग्राउंड में रीफ्रेश करें</string>
+    <string name="refresh_time">20 मिनट बाद ख़बरें अपने आप रीफ्रेश होंगी</string>
+</resources>

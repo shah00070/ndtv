@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+<!--
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+-->
+
+        <RelativeLayout
+            android:id="@+id/non_video_view"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+
+            <com.ndtv.core.util.VideoEnabledWebView
+                android:id="@+id/item_story_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <!--ProgressBar
+                android:id="@+id/DetailProgressBar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-9dp"
+                android:indeterminate="true"
+                android:maxHeight="20dip"
+                android:minHeight="20dip"
+                android:progressDrawable="@drawable/detail_progress_bar" /-->
+
+            <RelativeLayout
+                android:id="@+id/Ratingslayout"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:layout_below="@+id/item_story_content"
+                android:background="@color/theme_accent"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/RatingsPrompt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="@string/rf_prompt"
+                    android:textColor="@color/selected_tab_color"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/RatingsPrompt"
+                    android:visibility="visible">
+
+                    <Button
+                        android:id="@+id/R_button_off"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button_off"
+                        android:text="@string/rf_prompt_yes"
+                        android:textAllCaps="false"
+                        android:textColor="@color/selected_tab_color"
+                        android:textSize="@dimen/text_size_normal" />
+
+                    <Button
+                        android:id="@+id/R_button_on"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="30dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button_on"
+                        android:text="@string/rf_prompt_no"
+                        android:textAllCaps="false"
+                        android:textColor="@color/theme_accent"
+                        android:textSize="@dimen/text_size_normal" />
+
+                </LinearLayout>
+
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+<!--
+    </ScrollView>
+-->
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminate="false" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/video_container"
+        ></FrameLayout>
+</RelativeLayout>

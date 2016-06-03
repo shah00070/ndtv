@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/enable_notifications"
+        layout="@layout/enable_notifications" />
+
+    <include
+        android:id="@+id/invert_notifications"
+        layout="@layout/invert_notifications" />
+
+    <include
+        android:id="@+id/notification_at_night"
+        layout="@layout/notification_settings_item" />
+
+    <include
+        android:id="@+id/notification_sound"
+        layout="@layout/notification_settings_item" />
+
+    <include
+        android:id="@+id/notification_vibration"
+        layout="@layout/notification_settings_item" />
+    <include
+        android:id="@+id/refresh_app"
+        layout="@layout/refresh_settings_item" />
+
+    <com.ndtv.core.common.util.views.StyledTextView
+        android:id="@+id/news_categories"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="@string/sections"
+        android:background="@color/selected_gray"
+        android:backgroundTint="@color/white"
+        android:textColor="#009688"
+        android:textSize="17sp"
+        app:customTypeface="@string/roboto_bold" />
+
+
+</LinearLayout>

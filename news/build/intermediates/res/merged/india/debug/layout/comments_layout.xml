@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/comments_header"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:singleLine="true"
+        android:textColor="#009688"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ExpandableListView
+        android:id="@+id/comments_list_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/comment_text"
+        android:layout_below="@+id/comments_header"
+        android:background="@android:color/white"
+        android:cacheColorHint="#00000000"
+        android:listSelector="@android:color/transparent"
+        android:padding="5dp"
+        android:scrollbars="none" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/empty_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"
+        android:text="@string/no_comments_msg"
+        android:textColor="@color/Black"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/comment_text"
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="left|bottom"
+        android:hint="@string/your_comment"
+        android:imeOptions="actionDone"
+        android:padding="5dp"
+        android:textCursorDrawable="@null"
+        android:singleLine="true"
+        android:textColor="@color/Black"
+        android:textColorHint="@color/Black"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+
+</RelativeLayout>

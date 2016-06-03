@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/values-bn/values-bn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-bn/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 56,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 55,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-bn/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 55,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 172,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-bn/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 172,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 77,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/values-bn/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 77,
+                        "endOffset": 589
+                    }
+                }
+            }
+        ]
+    }
+]

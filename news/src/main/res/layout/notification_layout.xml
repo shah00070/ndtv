@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:theme="@style/NotiTheme">
+
+    <ImageView
+        android:id="@+id/ndtv_icon"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.2"
+        android:src="@drawable/ic_launcher" />
+
+    <RelativeLayout
+        android:id="@+id/notification_container"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.4">
+
+        <TextView
+            android:id="@+id/content_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+
+            android:text="Live Radio"
+            android:textAppearance="@style/NotificationText"
+            android:textSize="@dimen/notification_text_size" />
+
+        <TextView
+            android:id="@+id/content_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/content_title"
+            android:layout_marginTop="5dp"
+            android:singleLine="true"
+            android:text="Live Radio"
+            android:textAppearance="@style/NotificationText"
+            android:textSize="@dimen/notification_text_size" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.3">
+
+        <TextView
+            android:id="@+id/current_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:singleLine="true"
+            android:text="10.50"
+            android:textAppearance="@style/NotificationText"
+            android:textSize="@dimen/notification_text_size" />
+
+        <ImageButton
+            android:id="@+id/play_pause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/current_time"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/current_time"
+            android:background="#0000"
+            android:padding="10dp" />
+
+        <ProgressBar
+            android:id="@+id/loader"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/current_time"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/current_time"
+            android:padding="10dp"
+            android:visibility="gone"/>
+
+    </RelativeLayout>
+
+    <ImageButton
+        android:id="@+id/close_btn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_weight="0.1"
+        android:background="@drawable/notification_close_btn_v11" />
+
+</LinearLayout>

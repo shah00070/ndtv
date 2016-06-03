@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@color/alert_color"
+        android:padding="15dp" >
+
+        <com.ndtv.core.common.util.views.RobotoCondensedRegularTextView
+            android:id="@+id/notification_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <com.ndtv.core.common.util.views.RobotoCondensedRegularTextView
+            android:id="@+id/notification_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/notification_title"
+            android:maxLines="5"
+            android:padding="5dp"
+            android:scrollbars="vertical"
+            android:textColor="@color/list_item_light_grey"
+            android:textSize="12sp" />
+
+        <ListView
+            android:id="@+id/share_list_alert"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/notification_text"
+            android:layout_margin="5dp"
+            android:background="@color/alert_color"
+            android:visibility="gone" >
+        </ListView>
+
+        <LinearLayout
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/share_list_alert" >
+
+            <Button
+                android:id="@+id/cancel_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/cancel_text" />
+
+            <Button
+                android:id="@+id/share_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/share_text" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

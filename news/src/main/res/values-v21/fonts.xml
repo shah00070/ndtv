@@ -1,0 +1,5 @@
+
+<resources>
+    <integer name="font_textStyle_medium">0</integer>
+    <string name="font_fontFamily_medium">sans-serif</string>
+</resources>

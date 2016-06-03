@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <corners android:bottomLeftRadius="6dp"
+        android:bottomRightRadius="6dp"/>
+    <stroke
+        android:width="3dp"
+        android:color="@color/live_tv_schedule_background"/>
+    <solid
+        android:color="#88000000"/>
+</shape>

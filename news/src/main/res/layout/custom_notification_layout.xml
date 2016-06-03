@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:theme="@style/NotiTheme">
+
+    <ImageView
+        android:id="@+id/image_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:src="@drawable/ic_launcher"
+        tools:ignore="ContentDescription" />
+
+    <!--<TextView-->
+    <!--android:id="@+id/title"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginLeft="8dp"-->
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:layout_toRightOf="@id/image_logo"-->
+    <!--android:text="@string/app_name"-->
+    <!--android:textAppearance="@style/NotificationTitle"-->
+    <!--android:textSize="@dimen/notification_text_size" />-->
+
+
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_toRightOf="@id/image_logo"
+        android:maxLines="3"
+        android:padding="5dp"
+        android:singleLine="false"
+        android:textAppearance="@style/NotificationText"
+        android:textSize="@dimen/notification_text_size" />
+
+    <ImageView
+        android:id="@+id/view"
+        style="@style/NotificationView"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignLeft="@id/text"
+        android:layout_below="@id/text"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/view"
+        android:layout_below="@id/view"
+        android:background="?android:selectableItemBackground"
+        android:drawablePadding="10dp"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:text="@string/share_text"
+        android:textAppearance="@style/NotificationText"
+        android:textSize="@dimen/notification_text_size" />
+
+    <TextView
+        android:id="@+id/current_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/view"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:singleLine="true"
+        android:textAppearance="@style/NotificationText"
+        android:textSize="@dimen/notification_text_size" />
+
+
+</RelativeLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/settings_header_bg"
+    android:padding="15dp">
+
+    <com.ndtv.core.common.util.views.StyledTextView
+        android:id="@+id/section_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@+id/checkbox"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:text="@string/app_refresh"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:customTypeface="@string/roboto_bold" />
+
+    <com.ndtv.core.common.util.views.StyledTextView
+        android:id="@+id/sub_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/section_title"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="12dp"
+        android:layout_toLeftOf="@+id/checkbox"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="@string/refresh_time"
+        android:textColor="#999999"
+        android:textSize="12sp"
+        android:visibility="gone"
+        app:customTypeface="@string/roboto_bold" />
+
+    <Switch
+        android:id="@+id/checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="27dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:checked="false"
+        android:textOff=""
+        android:textOn="" />
+</RelativeLayout>

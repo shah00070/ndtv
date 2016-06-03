@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- Live Facebook id -->
+
+    <!--<string name="facebook_app_id">202684249798785</string>-->
+    <!-- &lt;!&ndash;TEST ID&ndash;&gt;
+     <string name="facebook_app_id">259226410849121</string>-->
+
+    <!-- Live Facebook id -->
+
+
+    <string name="com_score_account_id">9548033</string>
+    <string name="com_score_publisher_secret">dab7c2e92ee0e9e6e03f35c89f7fff0c</string>
+
+    <!-- custom fonts -->
+    <string name="roboto_bold">Roboto-Bold.ttf</string>
+    <string name="roboto_condensed_bold">RobotoCondensed-Bold.ttf</string>
+    <string name="roboto_condensed_regular">RobotoCondensed-Regular.ttf</string>
+    <string name="roboto_condensed">Roboto-Condensed.ttf</string>
+    <string name="roboto_medium">Roboto-Medium.ttf</string>
+    <string name="roboto_regular">Roboto-Regular.ttf</string>
+
+    <!-- chromecast -->
+    <string name="cc_app_id">FAE9A5F2</string>
+    <string name="cc_app_id_X">4F8B3483</string>
+
+</resources>

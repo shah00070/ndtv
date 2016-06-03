@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/show_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="25dp"
+        android:gravity="center_horizontal"
+        android:text="10:30\n PM"
+        android:textColor="@color/white" />
+
+    <ImageButton
+        android:id="@+id/show_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/icn_actv" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/show_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/blk_bg"
+            android:gravity="center_horizontal"
+             />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/show_name"
+            android:layout_marginTop="-3dp">
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/show_image"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="3dp"
+                android:padding="3dp"
+                android:scaleType="fitXY"
+                android:layout_marginRight="9dp"
+                 />
+
+            <View
+                android:id="@+id/show_image_top_layer"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="9dp"
+                android:background="@drawable/schedule_image_background_not_playing" />
+
+           <!-- <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|right"
+                android:layout_marginRight="20dp"
+                android:id="@+id/show_now_playing"
+                android:visibility="gone"
+                android:src="@drawable/play_livetv"
+                />
+-->
+            <ImageButton
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:background="@drawable/floating_action_back"
+                android:elevation="9dp"
+                android:layout_gravity="bottom|right"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/livetv_floating_icons"
+                android:visibility="gone"
+                android:id="@+id/show_now_playing"
+                android:stateListAnimator="@animator/fab_anim" />
+        </FrameLayout>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/feedback_txt"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/feedback_edittxt_height"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/feedback_text_margin"
+        android:background="@drawable/bg_edit_text"
+        android:gravity="top|start"
+        android:hint="@string/feedback_edittext_default_txt"
+        android:imeOptions="actionDone"
+        android:inputType="textMultiLine"
+        android:maxLength="75"
+        android:padding="@dimen/feedback_text_padding"
+        android:textColor="@color/black"
+        android:textCursorDrawable="@null"
+        android:textSize="@dimen/feedback_text_size"
+        android:textColorHint="@color/grey"/>
+
+    <Button
+        android:id="@+id/submit_feedback_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/submit_btn_bg"
+        android:text="@string/feedback_submit_btn_text"
+        android:textColor="@color/white"
+        android:textAllCaps="false"/>
+
+</LinearLayout>
+</ScrollView>

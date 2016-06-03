@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/raw/ndtv.mp3",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/raw/ndtv.mp3"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/raw/gtm_analytics",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/raw/tw__cacerts",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.3.2/res/raw/tw__cacerts"
+    }
+]

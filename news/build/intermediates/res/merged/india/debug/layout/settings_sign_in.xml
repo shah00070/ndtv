@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/accounts_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/settings_sign_up_gradient"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:text="@string/login_to_comment"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/google_plus_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/btn_google" />
+
+            <ImageView
+                android:id="@+id/facebook_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/btn_facebook" />
+
+            <ImageView
+                android:id="@+id/twitter_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/btn_twitter" />
+        </LinearLayout>
+
+        <com.ndtv.core.common.util.views.RobotoCondensedBoldTextView
+            android:id="@+id/app_version_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/accounts_layout"
+            android:gravity="center_horizontal"
+            android:padding="5dp"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+
+    </RelativeLayout>
+
+</ScrollView>

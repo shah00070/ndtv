@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/search_no_result_msg"
+        android:textColor="@android:color/black"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/search_news_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:textColor="@android:color/tertiary_text_dark" />
+
+    <include layout="@layout/fragment_news_listing" />
+
+</LinearLayout>

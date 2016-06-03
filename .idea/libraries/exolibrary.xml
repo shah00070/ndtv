@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="exolibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/news/libs/exolibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

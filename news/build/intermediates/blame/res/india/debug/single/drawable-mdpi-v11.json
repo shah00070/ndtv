@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/drawable-mdpi-v11/ic_stat_hardware_headphones.png",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/drawable-mdpi-v11/ic_stat_hardware_headphones.png"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/drawable-mdpi-v11/ic_stat_action_notification.png",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/drawable-mdpi-v11/ic_stat_action_notification.png"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/drawable-mdpi-v11/ic_stat_content_remove.png",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/drawable-mdpi-v11/ic_stat_content_remove.png"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/drawable-mdpi-v11/ic_stat_action_democast.png",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/drawable-mdpi-v11/ic_stat_action_democast.png"
+    }
+]

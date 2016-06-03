@@ -1,0 +1,103 @@
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "22.0.1"
+
+    splits {
+        density {
+            enable true
+            exclude "ldpi", "tvdpi", "xxxhdpi"
+            compatibleScreens 'small', 'normal', 'large', 'xlarge'
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.j1uly.ndtv"
+        minSdkVersion 15
+        targetSdkVersion 21
+        versionCode 0
+        versionName "6.1"
+        multiDexEnabled true
+        resConfigs "en", "hi"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+        ndtv {
+            applicationId "com.july.ndtv"
+            versionName "6.5.1"
+            versionCode 145
+        }
+
+        india {
+            applicationId "com.ndtv.india"
+            versionName "2.4.1"
+            versionCode 145
+        }
+
+        prime {
+            applicationId "com.mm.ndtv"
+            versionName "1.0"
+            versionCode 145
+        }
+    }
+    lintOptions {
+        // set to true to turn off analysis progress reporting by lint
+        quiet true
+        // if true, stop the gradle build if errors are found
+        abortOnError false
+        // if true, only report errors
+        ignoreWarnings true
+        // if true, show all locations for an error, do not truncate lists, etc.
+        showAll true
+        // if true, generate an HTML report (with issue explanations, sourcecode, etc)
+        htmlReport true
+        // optional path to report (default will be lint-results.html in the builddir)
+        htmlOutput file("lint-report.html")
+        // set to true to have all release builds run lint on issues with severity=fatal
+        // and abort the build (controlled by abortOnError above) if fatal issues are found
+        checkReleaseBuilds true
+    }
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile files('libs/simple-xml-2.7.jar')
+    compile('com.crashlytics.sdk.android:crashlytics:2.2.3@aar') { transitive = true; }
+    compile files('libs/RFMSDK.jar')
+    compile files('libs/exolibrary.jar')
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile 'com.android.support:recyclerview-v7:21.0.3'
+    // compile 'com.google.android.gms:play-services:6.1.71'
+    compile 'com.mcxiaoke.volley:library:1.0.7@aar'
+    compile 'com.github.bumptech.glide:glide:3.5.2'
+    compile 'com.google.code.gson:gson:2.3'
+    compile 'com.android.support:support-v4:22.2.0'
+    compile 'com.squareup.okhttp:okhttp-urlconnection:1.6.0'
+    compile project(':CastCompanionLibrary')
+    compile 'com.google.android.gms:play-services-ads:7.5.0'
+    compile 'com.facebook.android:facebook-android-sdk:3.23.0'
+    compile 'com.google.android.gms:play-services-plus:7.5.0'
+    compile 'org.jsoup:jsoup:1.8.1'
+    compile('com.twitter.sdk.android:twitter:1.4.0@aar') {
+        transitive = true;
+    }
+    compile 'com.google.android.gms:play-services-gcm:7.5.0'
+    compile 'com.google.api-client:google-api-client-android:1.20.0'
+    compile 'com.google.android.gms:play-services-appindexing:7.5.0'
+    compile 'com.android.support:multidex:1.0.0'
+}

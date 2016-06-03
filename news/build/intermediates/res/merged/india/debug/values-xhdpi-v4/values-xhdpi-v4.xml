@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="com_facebook_picker_divider_width">2px</dimen>
+    <dimen name="notification_text_size">13sp</dimen>
+    <dimen name="tw__login_btn_text_size">18sp</dimen>
+</resources>

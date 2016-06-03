@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/menu/menu_chrome_cast.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/menu/menu_chrome_cast.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/menu/cast_player_menu.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/exploded-aar/NdtvApp/CastCompanionLibrary/unspecified/release/res/menu/cast_player_menu.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/menu/detail_menu_video.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/menu/detail_menu_video.xml"
+    },
+    {
+        "merged": "/home/chandan/AndroidStudioProjects/NdtvApp/news/build/intermediates/res/merged/india/debug/menu/menu_detail.xml",
+        "source": "/home/chandan/AndroidStudioProjects/NdtvApp/news/src/main/res/menu/menu_detail.xml"
+    }
+]
